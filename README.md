@@ -1,0 +1,1 @@
+# application-d-intelligence-artificielle-pour-la-reconnaissance-facile
