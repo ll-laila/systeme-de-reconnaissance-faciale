@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # application-d-intelligence-artificielle-pour-la-reconnaissance-facile
 
 Il s'agit d'un système de reconnaissance faciale
@@ -12,3 +13,6 @@ l’extraction des caractéristiques des points de visage pour encoder la forme 
 celui-ci en binaire à l’aide de la technique LBP. Finalement la classification des
 histogrammes générés qui nous permet de voir s’il s’agit de la bonne personne
 qu’on veut identifier ou non.
+=======
+# systeme-de-reconnaissance-faciale
+>>>>>>> dd01d72fe45225b39a4c77e39e65be508726aa8d
