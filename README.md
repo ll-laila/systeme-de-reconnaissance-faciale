@@ -11,5 +11,10 @@ effectuer la détection de l’objet visage humain. Par la suite, le système pr
 l’extraction des caractéristiques des points de visage pour encoder la forme de
 celui-ci en binaire à l’aide de la technique LBP. Finalement la classification des
 histogrammes générés qui nous permet de voir s’il s’agit de la bonne personne
+
+https://github.com/user-attachments/assets/f66b59d1-7209-4ea4-8976-b3a8fd191fb7
+
+
 qu’on veut identifier ou non.
 
+# Demo
